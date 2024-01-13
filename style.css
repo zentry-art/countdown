@@ -10,7 +10,7 @@ body {
         linear-gradient(
                 rgba(0, 0, 0, 0.8),
                 rgba(0, 0, 0, 0.8)
-            ),url(bghbd.svg);
+            ),url(bg.svg);
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
 }
